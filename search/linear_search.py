@@ -56,7 +56,33 @@ def add_binary_integers(first_list, second_list):
     c.append(carry_over)
     return c[::-1]
 
+
+
+'''
+A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+
+Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+'''
+
+
+def is_pangram(s):
+    import string
+
+    set_string = set(list(s.lower()))
+  # print(set_string)
+    alpha = set(list(string.ascii_lowercase))
+    intersect = list(set_string.intersection(alpha))
+    for i in list(alpha):
+        if i not in intersect:
+            return False
+    return True
+
 if __name__ == '__main__':
     print(search([31,41,59,26,41,58], 26))
     print(search([31,41,59,26,41,58], 1))
     print(add_binary_integers([0,0,0,], [1,1,1]))
+    print(is_pangram("The quick brown fox jumps over the lazy dog" ))
+
+
+
+
