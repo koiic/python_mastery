@@ -77,6 +77,28 @@ def is_pangram(s):
             return False
     return True
 
+
+''' Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.'''
+
+def unique_in_order(iterable):
+  unique_list = []
+  if len(iterable) == 1:
+    unique_list.append(iterable)
+  for index in range(0, len(iterable)):
+    if iterable[index] != iterable[index - 1]:
+    # if iterable[index] not in unique_list:
+      unique_list.append(iterable[index])
+    
+    if iterable[index] not in unique_list:
+      unique_list.append(iterable[index])
+   
+  return unique_list
+
+
+print(unique_in_order('AAABBBCCc'))
+
+
+
 if __name__ == '__main__':
     print(search([31,41,59,26,41,58], 26))
     print(search([31,41,59,26,41,58], 1))
