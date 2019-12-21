@@ -69,8 +69,9 @@ def is_pangram(s):
     import string
 
     set_string = set(list(s.lower()))
-  # print(set_string)
+    # print(set_string)
     alpha = set(list(string.ascii_lowercase))
+    print(alpha)
     intersect = list(set_string.intersection(alpha))
     for i in list(alpha):
         if i not in intersect:
@@ -98,13 +99,54 @@ def unique_in_order(iterable):
 print(unique_in_order('AAABBBCCc'))
 
 
+def do_twice(f):
+    f()
+    f()
+
+def do_four(f):
+    do_twice(f)
+    do_twice(f)
+
+def print_beam():
+    print('+ - - - -', end=' ')
+
+def print_post():
+    print('|        ', end=' ')
+
+def print_beams():
+    do_twice(print_beam)
+    print('+')
+
+def print_posts():
+    do_twice(print_post)
+    print('|')
+
+def print_row():
+    print_beams()
+    do_four(print_posts)
+
+def print_grid():
+    do_twice(print_row)
+    print_beams()
+
+    
+def function2(param):
+    print (param, param)
+
+def function1(part1, part2):
+    cat = part1 + part2
+    function2(cat)
 
 if __name__ == '__main__':
-    print(search([31,41,59,26,41,58], 26))
-    print(search([31,41,59,26,41,58], 1))
-    print(add_binary_integers([0,0,0,], [1,1,1]))
-    print(is_pangram("The quick brown fox jumps over the lazy dog" ))
+    # print(search([31,41,59,26,41,58], 26))
+    # print(search([31,41,59,26,41,58], 1))
+    # print(add_binary_integers([0,0,0,], [1,1,1]))
+    # print(is_pangram("The quick brown fox jumps over the lazy dog" ))
+    # print_grid()
 
+    chant1 = "See You "
+    chant2 = "See Me "
+    function1(chant1, chant2)
 
 
 
