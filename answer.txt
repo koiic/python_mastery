@@ -1,0 +1,15 @@
+""""" Answers from programming 7 exercises """""
+==========================================================check for duplicates output===============================================================
+
+zzz has duplicates
+dog has no duplicates
+bookkeeper has no duplicates
+subdermatoglyphic has no duplicates
+subdermatoglyphics has duplicates
+
+
+==========================================================check for missing letters===============================================================
+
+zzz is missing letters abcdefghijklmnopqrstuvwxy
+subdermatoglyphic is missing letters fjknqvwxz
+the quick brown fox jumps over the lazy dog use all alphabets

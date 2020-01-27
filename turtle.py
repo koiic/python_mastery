@@ -145,7 +145,100 @@ def is_power(a, b):
 #         return True
 #     else:
 #         return False
+
+def modify_list(sequence):
+    for value in sequence:
+        if value % 2 == 0:
+            print('====', value)
+            sequence.remove(value)
+    return sequence
+
+"""
+Part 1
+
+Write a Python program that does the following. 
+
+Create a string that is a long series of words separated by spaces. The string is your own creative choice. It can be names, favorite foods, animals, anything. Just make it up yourself. Do not copy the string from another source. 
+
+Turn the string into a list of words using split. 
+
+Delete three words from the list, but delete each one using a different kind of Python operation. 
+
+Sort the list. 
+
+Add new words to the list (three or more) using three different kinds of Python operation. 
+
+Turn the list of words back into a single string using join. 
+
+Print the string. 
+
+Part 2
+
+Provide your own examples of the following using Python lists. Create your own examples. Do not copy them from another source. 
+
+Nested lists 
+The “*” operator 
+List slices 
+The “+=” operator 
+A list filter 
+A list operation that is legal but does the "wrong" thing, not what the programmer expects 
+Provide the Python code and output for your program and all your examples. 
+"""
         
+# def stringify():
+#     my_string = "my tough decision as a college student"
+#     string_list = my_string.split(" ") # split string with spaces, convert the sting to a list
+#     string_list.pop(0) # pop item on index 4 --> returns the popped value
+#     del string_list[2] # delete item on index 1
+#     string_list.remove("decision") # remove item in array by value
+#     string_list.sort() # sort list alphabetically
+#     # #add item to list
+#     string_list.append("as") # append a new item to list
+#     string_list.insert(1, "great") # insert an item in the specified index
+#     string_list.extend(("strong", "lion")) # add an iterable to the list
+    
+#     new_string = " ".join(string_list) # join item in list to revert back to string
+    
+#     return new_string
+    
+
+
+# def my_nested_list_example():
+#     # this function create a nested list
+#     new_list = [[item*2 for item in range(4) ] for i in range(5) ]
+#     return new_list 
+    
+# #the * operator is used to create multiple version of a list
+# def multiple_list_value():
+#     #funvtion to multiply list value
+#     return my_nested_list_example() * 2
+
+
+# def list_filter_example():
+#     #filter list to return string greater than 4
+#     list_of_food = ["rice", "spaghetti", "beans", "coconut", "strawberry"]
+#     new_food = list(filter(lambda value: len(value) > 4, list_of_food))
+#     return new_food
+
+
+# def join_item_in_list():
+#     # joining item in python using the (+=) operator
+#     my_list = []
+#     my_list += ["fish", "rice", "bat"]
+    
+#     return my_list
+
+
+# def list_slice():
+#     # python slice implementation
+#      list_of_food = ["rice", "spaghetti", "beans", "coconut", "strawberry"]
+#      slice_object = slice(1, 4)
+#      return  list_of_food[slice_object]
+ 
+# def return_even_numbers():
+#     # function to reurn even numbers within 1 - 10
+#     even_numbers =  [value for value in range(10) if value % 2 == 1 ]
+#     return even_numbers
 
 if __name__ == '__main__':
 
@@ -154,13 +247,22 @@ if __name__ == '__main__':
     # draw_square(bob, 100)
     # print(nested_grade_score(0))
     # print(grade_score(69))
-    # print(check_multiple(15))
-    print("is_power(10, 2) returns: ", is_power(10, 2))
-    print("is_power(27, 3) returns: ", is_power(27, 3))
-    print("is_power(1, 1) returns: ", is_power(1, 1))
-    print("is_power(10, 1) returns: ", is_power(10, 1))
-    print("is_power(3, 3) returns: ", is_power(3, 3))
-    print("is_power(32, 2) returns: ", is_power(32, 2))
+    # # print(check_multiple(15))
+    # print("is_power(10, 2) returns: ", is_power(10, 2))
+    # print("is_power(27, 3) returns: ", is_power(27, 3))
+    # print("is_power(1, 1) returns: ", is_power(1, 1))
+    # print("is_power(10, 1) returns: ", is_power(10, 1))
+    # print("is_power(3, 3) returns: ", is_power(3, 3))
+    # print("modified list ", modify_list([9,8,7,6,5,4,3,2]))
+    # print("modified string::::  ", stringify())
+    # print("nested list::::  ", my_nested_list_example())
+    # print("multiple list::::  ", multiple_list_value())
+    # print("list slice::::  ", list_slice())
+    # print("joined list::::  ", join_item_in_list())
+    # print("filtered list::::  ", list_filter_example())
+    # print("even list::::  ", return_even_numbers())
+
+
 
     
     

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55332509-63f7-4ba2-802c-376298823de6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/linear_search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../100daysofpython" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
@@ -72,7 +70,12 @@
       <workItem from="1569256842460" duration="8000" />
       <workItem from="1569279091113" duration="86000" />
       <workItem from="1569279188528" duration="192000" />
-      <workItem from="1576805461090" duration="8079000" />
+      <workItem from="1576805461090" duration="8777000" />
+      <workItem from="1576899975074" duration="189000" />
+      <workItem from="1576920218797" duration="10000" />
+      <workItem from="1576920266928" duration="600000" />
+      <workItem from="1576935866919" duration="15000" />
+      <workItem from="1576936001804" duration="44000" />
     </task>
     <servers />
   </component>
@@ -84,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

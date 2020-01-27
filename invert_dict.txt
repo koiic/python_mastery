@@ -1,0 +1,1 @@
+{"google": ["workplace"], "python": ["stack"], "flask": ["framework"], "3": ["years of experience"], "male": ["gender"], "Ismail Calory": ["name"]}
