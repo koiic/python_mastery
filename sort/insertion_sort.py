@@ -1,6 +1,7 @@
 # pseudocode
 
 '''
+insertion sort performs sorting by transferring one element to a partially sorted array at a ti
     for j = 2 --> A.length
         key = A[j]
         i = j-1
