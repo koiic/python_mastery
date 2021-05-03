@@ -23,7 +23,7 @@ def search(array, number):
         if array[index] == number:
             return index
     return None
-    
+
 
 '''
 Consider the problem of adding two n-bit binary integers, stored in two n-element arrays A and B. 
@@ -44,11 +44,12 @@ State the problem formally and write pseudocode for adding the two integers.
 
 '''
 
+
 def add_binary_integers(first_list, second_list):
     c = []
     carry_over = 0
 
-    for index in range(len(first_list)-1, -1, -1):
+    for index in range(len(first_list) - 1, -1, -1):
         summation = first_list[index] + second_list[index] + carry_over
         print(summation)
         c.append(summation % 2)
@@ -57,9 +58,9 @@ def add_binary_integers(first_list, second_list):
     return c[::-1]
 
 
-
 '''
-A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence 
+"The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
 
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
 '''
@@ -71,29 +72,32 @@ def is_pangram(s):
     set_string = set(list(s.lower()))
     # print(set_string)
     alpha = set(list(string.ascii_lowercase))
-    print(alpha)
+    # print(alpha)
     intersect = list(set_string.intersection(alpha))
+    print(intersect)
     for i in list(alpha):
         if i not in intersect:
             return False
     return True
 
 
-''' Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.'''
+'''Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any 
+elements with the same value next to each other and preserving the original order of elements. '''
+
 
 def unique_in_order(iterable):
-  unique_list = []
-  if len(iterable) == 1:
-    unique_list.append(iterable)
-  for index in range(0, len(iterable)):
-    if iterable[index] != iterable[index - 1]:
-    # if iterable[index] not in unique_list:
-      unique_list.append(iterable[index])
-    
-    if iterable[index] not in unique_list:
-      unique_list.append(iterable[index])
-   
-  return unique_list
+    unique_list = []
+    if len(iterable) == 1:
+        unique_list.append(iterable)
+    for index in range(0, len(iterable)):
+        if iterable[index] != iterable[index - 1]:
+            # if iterable[index] not in unique_list:
+            unique_list.append(iterable[index])
+
+        if iterable[index] not in unique_list:
+            unique_list.append(iterable[index])
+
+    return unique_list
 
 
 print(unique_in_order('AAABBBCCc'))
@@ -103,50 +107,56 @@ def do_twice(f):
     f()
     f()
 
+
 def do_four(f):
     do_twice(f)
     do_twice(f)
 
+
 def print_beam():
     print('+ - - - -', end=' ')
 
+
 def print_post():
     print('|        ', end=' ')
+
 
 def print_beams():
     do_twice(print_beam)
     print('+')
 
+
 def print_posts():
     do_twice(print_post)
     print('|')
+
 
 def print_row():
     print_beams()
     do_four(print_posts)
 
+
 def print_grid():
     do_twice(print_row)
     print_beams()
 
-    
+
 def function2(param):
-    print (param, param)
+    print(param, param)
+
 
 def function1(part1, part2):
     cat = part1 + part2
     function2(cat)
 
+
 if __name__ == '__main__':
     # print(search([31,41,59,26,41,58], 26))
     # print(search([31,41,59,26,41,58], 1))
-    # print(add_binary_integers([0,0,0,], [1,1,1]))
-    # print(is_pangram("The quick brown fox jumps over the lazy dog" ))
-    # print_grid()
+    print(add_binary_integers([0,0,0,], [1,1,1]))
+    print(is_pangram("The quick brown fox jumps over the lazy dog"))
+    print_grid()
 
     chant1 = "See You "
     chant2 = "See Me "
     function1(chant1, chant2)
-
-
-

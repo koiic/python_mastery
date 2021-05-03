@@ -12,26 +12,26 @@ A NumPy array could be 1-dimensional (e.g. [1, 5, 20, 34, ...]), 2-dimensional (
 
 import numpy as np
 
-list_of_lists = [[1,2,3], [4,5,6], [7,8,9]]
+list_of_lists = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(list_of_lists)
 
 # create a numpy array
 an_array = np.array(list_of_lists)
 print(an_array)
 
-non_rectangular = [[1,2], [4,5,6], [7,8,9]]
+non_rectangular = [[1, 2], [4, 5, 6], [7, 8, 9]]
 print(non_rectangular)
 
 non_rectangular_array = np.array(non_rectangular)
 print(non_rectangular_array)
 
-#check the shape and datatype
+# check the shape and datatype
 print(an_array.shape, an_array.dtype)
 print(non_rectangular_array.shape, non_rectangular_array.dtype)
 
-#The first case, an_array, is a 2-dimensional 3x3 array (of integers). In contrast, non_rectangular_array is a 1-dimensional length 3 array (of objects, namely list objects).
+# The first case, an_array, is a 2-dimensional 3x3 array (of integers). In contrast, non_rectangular_array is a 1-dimensional length 3 array (of objects, namely list objects).
 
-#numpy conveinience functions
+# numpy conveinience functions
 linspace = np.linspace(1, 10, 10)
 """
     Return evenly spaced numbers over a specified interval.
@@ -43,7 +43,7 @@ linspace = np.linspace(1, 10, 10)
 """
 print(linspace)
 
-n_range = np.arange(1,10,1.5)
+n_range = np.arange(1, 10, 1.5)
 print(n_range)
 
 log_space = np.logspace(1, 10, 10)
@@ -52,7 +52,7 @@ print(log_space)
 zeros = np.zeros(10)
 print(zeros)
 
-diagonal = np.diag([1,2,3,4])
+diagonal = np.diag([1, 2, 3, 4])
 print(diagonal)
 
 eye = np.eye(5)

@@ -9,6 +9,7 @@ For example, make_change(92) returns [(50, 1), (20, 2), (1, 2)].
 
 """
 
+
 def get_denom(amount, arr):
     temp = []
     for i in range(len(arr)):
@@ -16,13 +17,11 @@ def get_denom(amount, arr):
             temp.extend(arr[i:])
             break
     return temp
-
 denomination = [100, 50, 20, 10, 5, 1]
 
 
 def make_change(amount):
     amount_list = []
-
     temp = get_denom(amount, denomination)
     for i in range(len(temp)):
         value, divisor, mod = change(amount, temp[i])

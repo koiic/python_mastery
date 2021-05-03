@@ -1,0 +1,12 @@
+ibrahim
+45
+100
+3
+0
+Right
+tony
+150
+80
+5
+15
+Left

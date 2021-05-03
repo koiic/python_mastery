@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55332509-63f7-4ba2-802c-376298823de6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/advance/cron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/pyconcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codementor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fanng/bigO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fanng/spiral_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fanng/string_compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performance_optimization/particleSimulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performance_optimization/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-mastery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-mastery.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUB/change.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUB/change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility/add_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/add_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility/count_step_ways.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/count_step_ways.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility/max_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/max_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility/missing_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/missing_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility/num_ways.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/num_ways.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataclass/dataclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataclass/dataclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators/dec_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorators/dec_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators/polynomia.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorators/polynomia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked_list/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime/prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime/sieve_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime/sieve_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/fib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/linear_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/insertion_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -21,39 +55,171 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="de61dd84-3028-46b6-b182-2d962387844f" />
   <component name="ProjectId" id="1Qv2O2Aa9OZHJ0q2Cu8BbFrR7pa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210501_0000" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codementor" />
+      <recent name="$PROJECT_DIR$/tree" />
       <recent name="$PROJECT_DIR$/pythonserver/routes" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunManager" selected="Python.recursion">
+    <configuration name="binarytree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mastery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/binarytree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyconcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mastery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advance/pyconcd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mastery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic_programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic_programming/recursion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mastery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performance_optimization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performance_optimization/smul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mastery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performance_optimization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performance_optimization/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Python.recursion" />
+        <item itemvalue="Python.binarytree" />
+        <item itemvalue="Python.pyconcd" />
+        <item itemvalue="Python.smul" />
+        <item itemvalue="Python.test" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,30 +249,142 @@
       <workItem from="1576936001804" duration="44000" />
       <workItem from="1580687465371" duration="3637000" />
       <workItem from="1580798087049" duration="910000" />
+      <workItem from="1595235223566" duration="9863000" />
+      <workItem from="1595941280123" duration="197000" />
+      <workItem from="1596377645611" duration="198000" />
+      <workItem from="1596484439285" duration="7475000" />
+      <workItem from="1596749670042" duration="1321000" />
+      <workItem from="1596769222192" duration="3213000" />
+      <workItem from="1596965554419" duration="1253000" />
+      <workItem from="1597135242002" duration="512000" />
+      <workItem from="1597139863779" duration="2097000" />
+      <workItem from="1597740522488" duration="2691000" />
+      <workItem from="1597796703243" duration="544000" />
+      <workItem from="1597978352535" duration="602000" />
+      <workItem from="1598145834562" duration="3050000" />
+      <workItem from="1598447524622" duration="1105000" />
+      <workItem from="1598987127945" duration="2715000" />
+      <workItem from="1599141977110" duration="964000" />
+      <workItem from="1600122686767" duration="361000" />
+      <workItem from="1600129837950" duration="971000" />
+      <workItem from="1600436083028" duration="1197000" />
+      <workItem from="1603913092000" duration="12270000" />
+      <workItem from="1604334075640" duration="247000" />
+      <workItem from="1604334501117" duration="3996000" />
+      <workItem from="1604761916074" duration="315000" />
+      <workItem from="1605160368535" duration="321000" />
+      <workItem from="1605283648177" duration="12418000" />
+      <workItem from="1605863549969" duration="446000" />
+      <workItem from="1606436986712" duration="480000" />
+      <workItem from="1606591767885" duration="2589000" />
+      <workItem from="1607353087239" duration="112000" />
+      <workItem from="1607575542656" duration="11100000" />
+      <workItem from="1607701579257" duration="3511000" />
+      <workItem from="1609348215737" duration="730000" />
+      <workItem from="1611699894984" duration="4140000" />
+      <workItem from="1612173572247" duration="42000" />
+      <workItem from="1612496713635" duration="2093000" />
+      <workItem from="1612504614045" duration="3741000" />
+      <workItem from="1612638917642" duration="18360000" />
+      <workItem from="1613680644573" duration="4756000" />
+      <workItem from="1614678687211" duration="2406000" />
+      <workItem from="1614793726950" duration="3677000" />
+      <workItem from="1614853430630" duration="212000" />
+      <workItem from="1614854898859" duration="449000" />
+      <workItem from="1614855541333" duration="232000" />
+      <workItem from="1615983583952" duration="704000" />
+      <workItem from="1616486983660" duration="154000" />
+      <workItem from="1616488532739" duration="458000" />
+      <workItem from="1617925997146" duration="10000" />
+      <workItem from="1617986304108" duration="2812000" />
+      <workItem from="1618020325384" duration="2409000" />
+      <workItem from="1618246061973" duration="1094000" />
+      <workItem from="1618306646416" duration="7000" />
+      <workItem from="1618306681746" duration="786000" />
+      <workItem from="1618346845601" duration="1315000" />
+      <workItem from="1618822201453" duration="34000" />
+      <workItem from="1619407931785" duration="6669000" />
+      <workItem from="1619867091750" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1580798219435">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="512" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1580687469275" />
-    <state x="512" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580798219435" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/advance/lambda.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AUB/trig_table.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_mastery$score_tracker.coverage" NAME="score_tracker Coverage Results" MODIFIED="1596769718366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_mastery$easy.coverage" NAME="easy Coverage Results" MODIFIED="1595328715293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+    <SUITE FILE_PATH="coverage/python_mastery$search.coverage" NAME="search Coverage Results" MODIFIED="1605663341837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binarysearch" />
+    <SUITE FILE_PATH="coverage/python_mastery$client2.coverage" NAME="client2 Coverage Results" MODIFIED="1605686644768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/python_mastery$segment.coverage" NAME="segment Coverage Results" MODIFIED="1605335802016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB/ass9" />
+    <SUITE FILE_PATH="coverage/python_mastery$max_count.coverage" NAME="max_count Coverage Results" MODIFIED="1605664132868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility" />
+    <SUITE FILE_PATH="coverage/python_mastery$file_stat.coverage" NAME="file_stat Coverage Results" MODIFIED="1603938969987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB" />
+    <SUITE FILE_PATH="coverage/python_mastery$prime_number.coverage" NAME="prime_number Coverage Results" MODIFIED="1612639293010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prime" />
+    <SUITE FILE_PATH="coverage/python_mastery$pubsub.coverage" NAME="pubsub Coverage Results" MODIFIED="1611863936800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_mastery$binarytree.coverage" NAME="binarytree Coverage Results" MODIFIED="1618348012786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+    <SUITE FILE_PATH="coverage/python_mastery$pyconcd.coverage" NAME="pyconcd Coverage Results" MODIFIED="1614795955397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
+    <SUITE FILE_PATH="coverage/python_mastery$test.coverage" NAME="test Coverage Results" MODIFIED="1613683862845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/performance_optimization" />
+    <SUITE FILE_PATH="coverage/python_mastery$Unittests_for_test_ContactAppTestAppium.coverage" NAME="Unittests for test.ContactAppTestAppium Coverage Results" MODIFIED="1597315091812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_mastery$spiral_matrix.coverage" NAME="spiral_matrix Coverage Results" MODIFIED="1612518525599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fanng" />
+    <SUITE FILE_PATH="coverage/python_mastery$day_of_the_year.coverage" NAME="day_of_the_year Coverage Results" MODIFIED="1604643932760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB" />
+    <SUITE FILE_PATH="coverage/python_mastery$index.coverage" NAME="index Coverage Results" MODIFIED="1605686976871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
+    <SUITE FILE_PATH="coverage/python_mastery$particleSimulator.coverage" NAME="particleSimulator Coverage Results" MODIFIED="1613682777406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/performance_optimization" />
+    <SUITE FILE_PATH="coverage/python_mastery$client.coverage" NAME="client Coverage Results" MODIFIED="1605686615675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/python_mastery$processing.coverage" NAME="processing Coverage Results" MODIFIED="1605662659339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
+    <SUITE FILE_PATH="coverage/python_mastery$dataclass.coverage" NAME="dataclass Coverage Results" MODIFIED="1605664962181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataclass" />
+    <SUITE FILE_PATH="coverage/python_mastery$missing_number.coverage" NAME="missing_number Coverage Results" MODIFIED="1612819529175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility" />
+    <SUITE FILE_PATH="coverage/python_mastery$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1605662550401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
+    <SUITE FILE_PATH="coverage/python_mastery$main.coverage" NAME="main Coverage Results" MODIFIED="1607583598617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/warrior" />
+    <SUITE FILE_PATH="coverage/python_mastery$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1605686872679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/python_mastery$multiprocessing.coverage" NAME="processing Coverage Results" MODIFIED="1598988250976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
+    <SUITE FILE_PATH="coverage/python_mastery$trig_table.coverage" NAME="trig_table Coverage Results" MODIFIED="1603940228476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB" />
+    <SUITE FILE_PATH="coverage/python_mastery$polynomia.coverage" NAME="polynomia Coverage Results" MODIFIED="1605665384691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/python_mastery$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1597355726042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_mastery$dict_stats.coverage" NAME="dict_stats Coverage Results" MODIFIED="1604642972738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB" />
+    <SUITE FILE_PATH="coverage/python_mastery$queue.coverage" NAME="queue Coverage Results" MODIFIED="1605685607195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queue" />
+    <SUITE FILE_PATH="coverage/python_mastery$count_step_ways.coverage" NAME="count_step_ways Coverage Results" MODIFIED="1605663923304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility" />
+    <SUITE FILE_PATH="coverage/python_mastery$linear_search.coverage" NAME="linear_search Coverage Results" MODIFIED="1605686531092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search" />
+    <SUITE FILE_PATH="coverage/python_mastery$smul.coverage" NAME="smul Coverage Results" MODIFIED="1613684214142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/performance_optimization" />
+    <SUITE FILE_PATH="coverage/python_mastery$change.coverage" NAME="change Coverage Results" MODIFIED="1604334540284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB" />
+    <SUITE FILE_PATH="coverage/python_mastery$client3.coverage" NAME="client3 Coverage Results" MODIFIED="1605686655322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/python_mastery$func.coverage" NAME="func Coverage Results" MODIFIED="1607701517639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdata" />
+    <SUITE FILE_PATH="coverage/python_mastery$bank.coverage" NAME="bank Coverage Results" MODIFIED="1605334666287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB/ass9" />
+    <SUITE FILE_PATH="coverage/python_mastery$thread.coverage" NAME="thread Coverage Results" MODIFIED="1605662778487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
+    <SUITE FILE_PATH="coverage/python_mastery$warrior.coverage" NAME="warrior Coverage Results" MODIFIED="1607582199182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/warrior" />
+    <SUITE FILE_PATH="coverage/python_mastery$string_compression.coverage" NAME="string_compression Coverage Results" MODIFIED="1612819347942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fanng" />
+    <SUITE FILE_PATH="coverage/python_mastery$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1619448337985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_programming" />
+    <SUITE FILE_PATH="coverage/python_mastery$add_one.coverage" NAME="add_one Coverage Results" MODIFIED="1605663555016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility" />
+    <SUITE FILE_PATH="coverage/python_mastery$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1605339460946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AUB/ass9" />
+    <SUITE FILE_PATH="coverage/python_mastery$dec_type.coverage" NAME="dec_type Coverage Results" MODIFIED="1605665269427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/python_mastery$fib.coverage" NAME="fib Coverage Results" MODIFIED="1605685945029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/python_mastery$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1605686741484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
   </component>
 </project>
