@@ -8,7 +8,7 @@
     - sharing data with memoryview
 """
 
-# bitwise (and) -> &
+# bitwise (and) -> & 
 # bitwise (or) -> |
 # bitwise (Exclusive-or) XOR -> ^
 # bitwise (not) -> ~
