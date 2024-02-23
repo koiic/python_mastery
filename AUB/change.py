@@ -16,7 +16,9 @@ def get_denom(amount, arr):
         if amount > arr[i]:
             temp.extend(arr[i:])
             break
+       
     return temp
+
 denomination = [100, 50, 20, 10, 5, 1]
 
 

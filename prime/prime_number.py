@@ -9,6 +9,17 @@ def is_prime(number):
 
     return True
 
+def is_prime_list(number):
+    if number <= 1:
+        return False
+
+    for factor in range(2, 10):
+        print('===', factor, number)
+        if number % factor == 0:
+            return False
+
+    return True
+
 
 def is_prime_fast(number):
     import math
@@ -16,6 +27,8 @@ def is_prime_fast(number):
         return False
     if number != 2 and number % 2 == 0:
         return False
+    print(math.sqrt(number))
+    print(int(math.sqrt(number)))
     for factor in range(3, int(math.sqrt(number)) + 1):
         print(number, factor)
         if number % factor == 0:
@@ -58,4 +71,5 @@ def ll_prime(p):
 # print('====>>>>', mersenne_number(17))
 # print('====>>>>', lucas_lehmer(17))
 if __name__ == '__main__':
-    print(is_prime_fast(15))
+    print(is_prime_fast(9))
+    print(is_prime_list(9))
